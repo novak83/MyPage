@@ -1,0 +1,8 @@
+body {
+    background: url("/static/img/homebg.jpg");
+    background-repeat: no-repeat;
+}
+
+a {
+    color: white;
+}

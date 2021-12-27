@@ -1,0 +1,38 @@
+body {
+  background-color: #999999;
+}
+
+h2, p, h4, a, th, td, label {
+  font-family: cursive;
+
+}
+
+p.solid {
+  border-style: solid;
+  height: 100px;
+}
+
+.container {
+  border-top: solid;
+  border-color: black;
+}
+
+navbar {
+  border-top: solid;
+  border-color: black;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.info {
+  display: flex;
+  margin-left: 870px;
+}
+
+
+
+
