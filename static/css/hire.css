@@ -1,4 +1,7 @@
 body {
     background: url("/static/img/bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
